@@ -265,3 +265,12 @@ footer a {
     margin: auto;
   }
 }
+
+@media screen and (min-width: 576px) {
+  header ul li {
+    width: 15%;
+    display: inline-block;
+  }
+  article h1 {
+    font-size: 45px;
+}
